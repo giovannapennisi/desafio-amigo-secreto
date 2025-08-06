@@ -12,6 +12,23 @@ O objetivo deste desafio é simular um sorteio de **Amigo Secreto**, praticando 
 - Exibir o resultado do sorteio de forma destacada
 - Interface responsiva e visualmente amigável
 
+## 📸 Capturas de Tela
+
+### Tela Inicial  
+Na tela inicial, o usuário pode digitar o nome dos amigos e clicar em "Adicionar" para incluir na lista.
+
+![Tela Inicial](assets/prints/Print1_telaInicial.png)
+
+### Lista de Nomes  
+Após adicionar, a lista de amigos cadastrados é exibida logo abaixo do campo de entrada.
+
+![Lista de Nomes](assets/prints/Print2_listaDeNomes.png)
+
+### Nome Sorteado  
+Ao clicar no botão "Sortear amigo", o sistema exibe o nome do amigo secreto sorteado em destaque.
+
+![Nome Sorteado](assets/prints/Print3_nomeSorteado.png)
+
 
 ## 💻 Tecnologias Utilizadas
 
